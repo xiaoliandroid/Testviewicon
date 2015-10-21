@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mobile="http://com.lgb.liwai.testviewicon" android:orientation="vertical"
+    android:layout_width="fill_parent" android:layout_height="fill_parent">
+    <com.lgb.liwai.testviewicon.Myview
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:text="第一个图标" mobile:iconSrc="@drawable/android" />
+    <com.lgb.liwai.testviewicon.Myview
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:text="第二个图标" android:textSize="24dp" mobile:iconSrc="@drawable/android" />
+    <com.lgb.liwai.testviewicon.Myview
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:text="第三个图标" android:textSize="36dp" mobile:iconSrc="@drawable/android" />
+    <com.lgb.liwai.testviewicon.Myview
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:text="第四个图标" android:textSize="48dp" mobile:iconSrc="@drawable/android" />
+    <com.lgb.liwai.testviewicon.Myview
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:text="第五个图标" android:textSize="36dp" mobile:iconSrc="@drawable/android" />
+    <com.lgb.liwai.testviewicon.Myview
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:text="第六个图标" android:textSize="24dp" mobile:iconSrc="@drawable/android" />
+    <com.lgb.liwai.testviewicon.Myview
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:text="第七个图标" mobile:iconSrc="@drawable/android" />
+
+</LinearLayout>  
+               
